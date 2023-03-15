@@ -1,7 +1,6 @@
 # Doraemon-design
 I designed Doraemon using HTML and CSS
 
-![image][def]
+![image][/assets/image/dora.png]
 
 
-[def]: image/dora.png
